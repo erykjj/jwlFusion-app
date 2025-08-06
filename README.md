@@ -6,6 +6,9 @@ For Android 10+ arm64-v8a devices only.
 
 By using this software you agree to abide by the terms of its [License](https://github.com/erykjj/jwlFusion#License-1-ov-file).
 
+## Downloads
+
+**Coming soon**
 
 ## Usage
 
