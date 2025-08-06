@@ -1,8 +1,6 @@
 <img src="res/jwlFusion.png" width=100> βητα
 
-This is an **Android app** to merge backups created by the *JW Library* app[^1] created on different devices.
-
-For Android 10+ arm64-v8a devices only.
+This is an **Android 10+ app** to merge backups created by the *JW Library* app[^1] created on different devices.
 
 By using this software you agree to abide by the terms of its [License](https://github.com/erykjj/jwlFusion#License-1-ov-file).
 
