@@ -6,7 +6,7 @@ By using this software you agree to abide by the terms of its [License](https://
 
 **Latest release**: [jwlFusion_v0.5.0.apk](https://github.com/erykjj/jwlFusion-app/releases/download/v0.5.0/jwlFusion_v0.5.0.apk)
 
-**Note**: Pick the two backup archives you wish to merge. The **Primary** one will take precedence in case of any conflicts; it will add to the **Secondary** one and over-write any duplicate records. The merge itself can take a few seconds, depending on the size of the archives. The merged backup will be "saved" (via *Share to…*) with a *jwlFusion_* prefix. You can send it to your cloud storage app (like Google Drive) to synchronize to your other device(s), where you can import it into *JW Library* (**Restore Backup**).
+**Note**: Pick the two backup archives you wish to merge. The **Primary** one will take precedence in case of any conflicts; it will add to the **Secondary** one and over-write any duplicate records. The merge itself can take a few seconds, depending on the size of the archives. The merged backup will be "saved" (via *Share to…*) with a *jwlFusion_* prefix. You can send it to your cloud storage app (like *Google Drive*) to synchronize to your other device(s), where you can import it into *JW Library* ("Restore Backup").
 
 
 ____
