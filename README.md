@@ -1,6 +1,6 @@
 <img src="res/jwlFusion.png" width=100> βητα
 
-This is an **Android app**[^1] to merge backups created by *JW Library*[^2]. It works **off-line**: your data is not sent to anyone's website or a chat-bot.
+This is an **Android app**[^1] to merge backups created by *JW Library*[^2]. It works **off-line**: your data is not sent to anyone's website or a chatbot.
 
 By using this software you agree to abide by the terms of its [License](https://github.com/erykjj/jwlFusion#License-1-ov-file).
 
