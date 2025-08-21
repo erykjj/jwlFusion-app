@@ -11,7 +11,7 @@ By using this software you agree to abide by the terms of its [License](https://
 ____
 ____
 
-# I believe the jwlFusion app (for Android) is ready for the Google Play Store. But before I can publish a release for everyone, Google requires some closed/internal testing. I need at least 12 testers.
+## I believe the jwlFusion app (for Android) is ready for the Google Play Store. But before I can publish a release for everyone, Google requires some closed/internal testing. I need at least 12 testers.
 
 - Testers can join the test using Google Play on Android: https://play.google.com/store/apps/details?id=org.infiniti.jwlfusion.android
 - Testers can join the test on the web: https://play.google.com/apps/testing/org.infiniti.jwlfusion.android
