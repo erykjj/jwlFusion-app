@@ -9,12 +9,6 @@ By using this software you agree to abide by the terms of its [License](https://
 **Note**: Pick the two backup archives you wish to merge. The **Primary** one will take precedence in case of any conflicts; it will add to the **Secondary** one and over-write any duplicate records. The merge itself can take a few seconds, depending on the size of the archives. The merged backup will be "saved" (via *Share to…*) with a *jwlFusion_* prefix. You can send it to your cloud storage app (like *Google Drive*) to synchronize to your other device(s), where you can import it into *JW Library* ("Restore Backup").
 
 ____
-____
-
-## I believe the jwlFusion app (for Android) is ready for the Google Play Store. But before I can publish a release for everyone, Google requires some closed/internal testing. I need at least 12 testers.
-
-If you are able, I will need to add your gmail account to an internal list for Google to approve it as a beta-testing account. Please contact me via email: *infiniti at inventati . org*
-____
 [![Static Badge](https://img.shields.io/badge/releases-orange?style=plastic&logo=rss&logoColor=orange&color=black)](https://github.com/erykjj/jwlFusion-app/releases.atom)
 
 Feel free to get in touch and post any [issues and/or suggestions](https://github.com/erykjj/jwlFusion-app/issues).
