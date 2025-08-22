@@ -13,12 +13,7 @@ ____
 
 ## I believe the jwlFusion app (for Android) is ready for the Google Play Store. But before I can publish a release for everyone, Google requires some closed/internal testing. I need at least 12 testers.
 
-- Testers can join the test using Google Play on Android: https://play.google.com/store/apps/details?id=org.infiniti.jwlfusion.android
-- Testers can join the test on the web: https://play.google.com/apps/testing/org.infiniti.jwlfusion.android
-
-The version provided for the test is the same v0.8.1 as above.
-
-If you are able, please lend a hand :-)
+If you are able, I will need to add your gmail account to an internal list for Google to approve it as a beta-testing account. Please contact me via email: *infiniti at inventati . org*
 ____
 [![Static Badge](https://img.shields.io/badge/releases-orange?style=plastic&logo=rss&logoColor=orange&color=black)](https://github.com/erykjj/jwlFusion-app/releases.atom)
 
