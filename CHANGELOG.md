@@ -4,8 +4,6 @@
 
 ### Added
 
-- Added Portuguese localitation (thank you, Ben)
-
 ### Changed
 
 ### Fixed
@@ -13,6 +11,15 @@
 ### Removed
 
 ____
+## [v0.8.2] - 2025-08-22
+### Added
+
+- Added Portuguese localization (thank you, Ben)
+
+### Changed
+
+- Expanded Share intents to reach JW Library
+
 ## [v0.8.1] - 2025-08-19
 ### Added
 
@@ -43,6 +50,7 @@ ____
 - Initial BETA release for testing
 
 ____
+[v0.8.2]:https://github.com/erykjj/jwlFusion-app/releases/tag/v0.8.2
 [v0.8.1]:https://github.com/erykjj/jwlFusion-app/releases/tag/v0.8.1
 [v0.7.0]:https://github.com/erykjj/jwlFusion-app/releases/tag/v0.7.0
 [v0.6.0]:https://github.com/erykjj/jwlFusion-app/releases/tag/v0.6.0
