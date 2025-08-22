@@ -4,6 +4,8 @@
 
 ### Added
 
+- Added Portuguese localitation (thank you, Ben)
+
 ### Changed
 
 ### Fixed
