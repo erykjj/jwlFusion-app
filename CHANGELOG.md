@@ -4,6 +4,8 @@
 
 ### Added
 
+- Added armeabi-v7a builds (older devices)
+
 ### Changed
 
 ### Fixed
