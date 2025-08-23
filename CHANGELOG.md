@@ -4,6 +4,8 @@
 
 ### Added
 
+- Update the manifest file for the merged archive
+
 ### Changed
 
 ### Fixed
