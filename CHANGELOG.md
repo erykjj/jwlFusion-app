@@ -4,17 +4,22 @@
 
 ### Added
 
-- Update the manifest file for the merged archive
-
 ### Changed
-
-- Simplified datestamp
 
 ### Fixed
 
 ### Removed
 
 ____
+## [v0.9.0] - 2025-08-23
+### Added
+
+- Update the manifest file for the merged archive
+
+### Changed
+
+- Simplified datestamp
+
 ## [v0.8.2] - 2025-08-22
 ### Added
 
@@ -54,6 +59,7 @@ ____
 - Initial BETA release for testing
 
 ____
+[v0.9.0]:https://github.com/erykjj/jwlFusion-app/releases/tag/v0.9.0
 [v0.8.2]:https://github.com/erykjj/jwlFusion-app/releases/tag/v0.8.2
 [v0.8.1]:https://github.com/erykjj/jwlFusion-app/releases/tag/v0.8.1
 [v0.7.0]:https://github.com/erykjj/jwlFusion-app/releases/tag/v0.7.0
