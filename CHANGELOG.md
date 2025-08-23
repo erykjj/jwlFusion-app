@@ -8,6 +8,8 @@
 
 ### Changed
 
+- Simplified datestamp
+
 ### Fixed
 
 ### Removed
