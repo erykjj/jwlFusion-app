@@ -9,6 +9,8 @@
 ### Changed
 
 - Updated localizations
+- Updated jwlCore libs to v0.13.0
+  - Compare Notes on GUID only
 
 ### Fixed
 
