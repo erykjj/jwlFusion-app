@@ -4,9 +4,11 @@
 
 ### Added
 
-- Added armeabi-v7a builds (older devices)
+- Added armeabi-v7a builds (older devices and emulators)
 
 ### Changed
+
+- Updated localizations
 
 ### Fixed
 
