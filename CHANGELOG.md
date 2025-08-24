@@ -10,7 +10,7 @@
 ### Changed
 
 - Moved build number to tech info screen (triple-tap version)
-- Updated localizations
+- Updated/corrected localizations
 - Updated jwlCore libs to v0.13.0
   - Compare Notes on GUID only
 
