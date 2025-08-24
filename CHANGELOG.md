@@ -4,6 +4,16 @@
 
 ### Added
 
+### Changed
+
+### Fixed
+
+### Removed
+
+____
+## [v0.9.1] - 2025-08-24
+### Added
+
 - Added armeabi-v7a builds (older devices and emulators)
 - Added additional permissions for Share to...
 
@@ -14,11 +24,6 @@
 - Updated jwlCore libs to v0.13.0
   - Compare Notes on GUID only
 
-### Fixed
-
-### Removed
-
-____
 ## [v0.9.0] - 2025-08-23
 ### Added
 
@@ -67,6 +72,7 @@ ____
 - Initial BETA release for testing
 
 ____
+[v0.9.1]:https://github.com/erykjj/jwlFusion-app/releases/tag/v0.9.1
 [v0.9.0]:https://github.com/erykjj/jwlFusion-app/releases/tag/v0.9.0
 [v0.8.2]:https://github.com/erykjj/jwlFusion-app/releases/tag/v0.8.2
 [v0.8.1]:https://github.com/erykjj/jwlFusion-app/releases/tag/v0.8.1
