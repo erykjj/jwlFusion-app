@@ -5,9 +5,11 @@
 ### Added
 
 - Added armeabi-v7a builds (older devices and emulators)
+- Added additional permissions for Share to...
 
 ### Changed
 
+- Moved build number to tech info screen (triple-tap version)
 - Updated localizations
 - Updated jwlCore libs to v0.13.0
   - Compare Notes on GUID only
