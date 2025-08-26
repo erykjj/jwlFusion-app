@@ -6,6 +6,8 @@
 
 ### Changed
 
+- Changed "Done" button to "New Merge"
+  - exit app with Back button only
 - Updated jwlCore libs to v0.15.0
 
 ### Fixed
