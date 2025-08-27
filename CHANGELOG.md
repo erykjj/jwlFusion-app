@@ -8,6 +8,8 @@
 
 ### Fixed
 
+- Added vertical scroll on short landscape screens
+
 ### Removed
 
 ____
