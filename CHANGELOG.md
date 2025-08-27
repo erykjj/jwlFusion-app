@@ -6,17 +6,20 @@
 
 ### Changed
 
+### Fixed
+
+### Removed
+
+____
+## [v0.10.0] - 2025-08-27
+### Changed
+
 - Persist settings/activity on UI change
 - Changed "Done" button to "New Merge"
   - exit app with Back button only
 - Updated jwlCore libs to v0.15.0
 - Cosmetic adjustments
 
-### Fixed
-
-### Removed
-
-____
 ## [v0.9.1] - 2025-08-24
 ### Added
 
@@ -78,6 +81,7 @@ ____
 - Initial BETA release for testing
 
 ____
+[v0.10.0]:https://github.com/erykjj/jwlFusion-app/releases/tag/v0.10.0
 [v0.9.1]:https://github.com/erykjj/jwlFusion-app/releases/tag/v0.9.1
 [v0.9.0]:https://github.com/erykjj/jwlFusion-app/releases/tag/v0.9.0
 [v0.8.2]:https://github.com/erykjj/jwlFusion-app/releases/tag/v0.8.2
