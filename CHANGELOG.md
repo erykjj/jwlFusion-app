@@ -4,6 +4,8 @@
 
 ### Added
 
+- Added Danish localization (thank you, Per)
+
 ### Changed
 
 ### Fixed
