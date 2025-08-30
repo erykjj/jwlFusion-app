@@ -4,17 +4,26 @@
 
 ### Added
 
+### Changed
+
+### Fixed
+
+### Removed
+
+____
+## [v0.11.0] - 2025-08-30
+### Added
+
 - Added Danish localization (thank you, Per)
 
 ### Changed
+
+- Cosmetic tweaks
 
 ### Fixed
 
 - Added vertical scroll on short landscape screens
 
-### Removed
-
-____
 ## [v0.10.0] - 2025-08-27
 ### Changed
 
@@ -85,6 +94,7 @@ ____
 - Initial BETA release for testing
 
 ____
+[v0.11.0]:https://github.com/erykjj/jwlFusion-app/releases/tag/v0.11.0
 [v0.10.0]:https://github.com/erykjj/jwlFusion-app/releases/tag/v0.10.0
 [v0.9.1]:https://github.com/erykjj/jwlFusion-app/releases/tag/v0.9.1
 [v0.9.0]:https://github.com/erykjj/jwlFusion-app/releases/tag/v0.9.0
