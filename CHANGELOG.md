@@ -18,6 +18,7 @@ ____
 
 ### Changed
 
+- Updated jwlCore to v0.18.0
 - Cosmetic tweaks
 
 ### Fixed
