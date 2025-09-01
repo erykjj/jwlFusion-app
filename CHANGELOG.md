@@ -6,6 +6,7 @@
 
 - Validate selected archives
   - Ensure current schema version
+- Added French localization
 
 ### Changed
 
