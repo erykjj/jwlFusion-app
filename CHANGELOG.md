@@ -4,10 +4,6 @@
 
 ### Added
 
-- Validate selected archives
-  - Ensure current schema version
-- Added French localization
-
 ### Changed
 
 ### Fixed
@@ -15,6 +11,13 @@
 ### Removed
 
 ____
+## [v0.12.0] - 2025-09-01
+### Added
+
+- Validate selected archives
+  - Ensure current schema version
+- Added French localization
+
 ## [v0.11.0] - 2025-08-30
 ### Added
 
@@ -99,6 +102,7 @@ ____
 - Initial BETA release for testing
 
 ____
+[v0.12.0]:https://github.com/erykjj/jwlFusion-app/releases/tag/v0.12.0
 [v0.11.0]:https://github.com/erykjj/jwlFusion-app/releases/tag/v0.11.0
 [v0.10.0]:https://github.com/erykjj/jwlFusion-app/releases/tag/v0.10.0
 [v0.9.1]:https://github.com/erykjj/jwlFusion-app/releases/tag/v0.9.1
