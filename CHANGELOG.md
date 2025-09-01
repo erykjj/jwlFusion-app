@@ -4,6 +4,9 @@
 
 ### Added
 
+- Validate selected archives
+  - Ensure current schema version
+
 ### Changed
 
 ### Fixed
