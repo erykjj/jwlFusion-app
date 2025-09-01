@@ -18,6 +18,11 @@ ____
   - Ensure current schema version
 - Added French localization
 
+### Removed
+
+- Removed support for old armeabi-v7a devices
+  - Extra code with little real-world need
+
 ## [v0.11.0] - 2025-08-30
 ### Added
 
