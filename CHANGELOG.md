@@ -6,14 +6,18 @@
 
 ### Changed
 
-- Cosmetic adjustments
-- Updated jwlCore to v0.20.0
-
 ### Fixed
 
 ### Removed
 
 ____
+## [v0.20.0] - 2025-09-03
+### Changed
+
+- Target Android 16 (SDK 36)
+- Cosmetic adjustments
+- Updated jwlCore to v0.20.0
+
 ## [v0.12.0] - 2025-09-01
 ### Added
 
@@ -110,6 +114,7 @@ ____
 - Initial BETA release for testing
 
 ____
+[v0.20.0]:https://github.com/erykjj/jwlFusion-app/releases/tag/v0.20.0
 [v0.12.0]:https://github.com/erykjj/jwlFusion-app/releases/tag/v0.12.0
 [v0.11.0]:https://github.com/erykjj/jwlFusion-app/releases/tag/v0.11.0
 [v0.10.0]:https://github.com/erykjj/jwlFusion-app/releases/tag/v0.10.0
