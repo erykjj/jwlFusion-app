@@ -1,4 +1,4 @@
-<img src="res/jwlFusion.png" width=100> βητα
+<img src="../res/jwlFusion.png" width=100>
 
 This is an **Android app**[^1] to merge backups created by *JW Library*[^2]. It works **off-line**: your data is not sent to anyone's website or a chatbot.
 
