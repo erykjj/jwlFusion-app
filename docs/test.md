@@ -1,6 +1,6 @@
 Common GitHub Octicon Names:
 
-test :github: - The GitHub logo
+test ::github:: - The GitHub logo
 
 test :mark-github: - The GitHub mark (the classic octocat logo)
 
