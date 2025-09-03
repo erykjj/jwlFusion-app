@@ -1,20 +1,16 @@
 Common GitHub Octicon Names:
 
-:github: - The GitHub logo
+test :github: - The GitHub logo
 
-:mark-github: - The GitHub mark (the classic octocat logo)
+test :mark-github: - The GitHub mark (the classic octocat logo)
 
-:repo: - Repositories icon
+test :repo: - Repositories icon
 
-:code: - Code icon
+test :code: - Code icon
 
-:issue-opened: - Open issue icon
-
-:git-merge: - Merge icon (for PRs)
 
 :star: - Star icon
 
-:fork: - Fork icon
 
 :download: - Download icon
 
