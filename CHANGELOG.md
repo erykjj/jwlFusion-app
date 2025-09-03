@@ -6,6 +6,8 @@
 
 ### Changed
 
+- Cosmetic adjustments
+
 ### Fixed
 
 ### Removed
