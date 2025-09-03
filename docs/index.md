@@ -18,3 +18,25 @@ ____
 [^1]: Android 10+, arm64-v8a & x86_64; for armeabi-v7a devices, try [v0.11.0](https://github.com/erykjj/jwlFusion-app/releases/download/v0.11.0/jwlFusion_v0.11.0.apk) 
 
 [^2]: [JW Library](https://www.jw.org/en/online-help/jw-library/) is a registered trademark of *Watch Tower Bible and Tract Society of Pennsylvania*
+
+Common GitHub Octicon Names:
+
+    :github: - The GitHub logo
+
+    :mark-github: - The GitHub mark (the classic octocat logo)
+
+    :repo: - Repositories icon
+
+    :code: - Code icon
+
+    :issue-opened: - Open issue icon
+
+    :git-merge: - Merge icon (for PRs)
+
+    :star: - Star icon
+
+    :fork: - Fork icon
+
+    :download: - Download icon
+
+    :package: - Package icon (for releases)
