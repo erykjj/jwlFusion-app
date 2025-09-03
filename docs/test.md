@@ -14,4 +14,4 @@ test :code: - Code icon
 
 :download: - Download icon
 
-:package: - Package icon (for releases)
+[![GitHub](https://img.shields.io/badge/erykjj?style=for-the-badge&logo=github&logoColor=white)](https://github.com/erykjj)
