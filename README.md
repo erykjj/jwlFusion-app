@@ -14,6 +14,7 @@ ____
 Feel free to get in touch and post any [issues and/or suggestions](https://github.com/erykjj/jwlFusion-app/issues).
 
 My other *JW Library* projects: [**JWLManager**](https://github.com/erykjj/jwlmanager) & [**jwlFusion** (desktop)](https://github.com/erykjj/jwlFusion)
+
 ____
 #### Footnotes:
 [^1]: Android 10+, arm64-v8a & x86_64; for armeabi-v7a devices, try [v0.11.0](https://github.com/erykjj/jwlFusion-app/releases/download/v0.11.0/jwlFusion_v0.11.0.apk) 
