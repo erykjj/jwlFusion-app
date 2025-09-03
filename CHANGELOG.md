@@ -7,6 +7,7 @@
 ### Changed
 
 - Cosmetic adjustments
+- Updated jwlCore to v0.20.0
 
 ### Fixed
 
