@@ -2,11 +2,22 @@
 
 This is an **Android app**[^1] to merge backups created by *JW Library*[^2]. It works **off-line**: your data is not sent to anyone's website or a chatbot.
 
-By using this software you agree to abide by the terms of its [License](LICENSE.txt).
+It merges:
+- Annotations (comment fields)
+- Bookmarks
+- Highlights
+- Notes (and tags)
+- Favorites (up to limit of 10)
+- Playlists (and media files)
 
-**Note**: Pick the two backup archives you wish to merge. The **Primary** one will take precedence in case of any conflicts; it will add to the **Secondary** one and over-write any duplicate records. The merge itself can take a few seconds, depending on the size of the archives. The merged backup will be "saved" (via *Share to…*) with a *jwlFusion_* prefix. You can send it to your cloud storage app (like *Google Drive*) to synchronize to your other device(s), where you can import it into *JW Library* ("Restore Backup").
+Pick the two backup archives you wish to merge. The **Primary** one will take precedence in case of any conflicts; it will add to the **Secondary** one and over-write any duplicate records.
+
+The merge itself can take a few seconds, depending on the size of the archives and the capacity of your device.
+
+The merged backup will need to be "saved" (via *Share to…*) with a *jwlFusion_* prefix. You can send it to your cloud storage app (like *Google Drive*) to synchronize to your other device(s), where you can import it into *JW Library* ("Restore Backup").
 
 ____
+By using this software you agree to abide by the terms of its [License](LICENSE.txt).
 
 Feel free to get in touch and post any [issues and/or suggestions](https://github.com/erykjj/jwlFusion-app/issues).
 
