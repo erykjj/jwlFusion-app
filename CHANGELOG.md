@@ -11,6 +11,11 @@
 ### Removed
 
 ____
+## [v1.0.0] - 2025-09-06
+### Changed
+
+- Match Play Store release version
+
 ## [v0.20.0] - 2025-09-03
 ### Changed
 
@@ -114,6 +119,7 @@ ____
 - Initial BETA release for testing
 
 ____
+[v1.0.0]:https://github.com/erykjj/jwlFusion-app/releases/tag/v1.0.0
 [v0.20.0]:https://github.com/erykjj/jwlFusion-app/releases/tag/v0.20.0
 [v0.12.0]:https://github.com/erykjj/jwlFusion-app/releases/tag/v0.12.0
 [v0.11.0]:https://github.com/erykjj/jwlFusion-app/releases/tag/v0.11.0
