@@ -10,6 +10,13 @@ It merges:
 - Favorites (up to limit of 10)
 - Playlists (and media files)
 
+<details>
+<summary>Preview…</summary>
+
+![preview](docs/res/jwlFusion.gif)
+
+</details>
+
 **Latest release**: [jwlFusion_v1.0.1.apk](https://github.com/erykjj/jwlFusion-app/releases/download/v1.0.1/jwlFusion_v1.0.1.apk)
 
 Pick the two backup archives you wish to merge. The **Primary** one will take precedence in case of any conflicts; it will add to the **Secondary** one and over-write any duplicate records.
