@@ -12,11 +12,11 @@ It merges:
 
 <details>
 <summary>Preview…</summary>
-#####
+<br/>
 <img src="res/jwlFusion.gif">
-#####
+<br/>
 </details>
-#####
+<br/>
 Pick the two backup archives you wish to merge. The **Primary** one will take precedence in case of any conflicts; it will add to the **Secondary** one and over-write any duplicate records.
 
 The merge itself can take a few seconds, depending on the size of the archives and the capacity of your device.
