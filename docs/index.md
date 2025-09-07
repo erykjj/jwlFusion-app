@@ -10,6 +10,13 @@ It merges:
 - Favorites (up to limit of 10)
 - Playlists (and media files)
 
+<details>
+<summary>Preview…</summary>
+
+![preview](res/jwlFusion.gif)
+
+</details>
+
 Pick the two backup archives you wish to merge. The **Primary** one will take precedence in case of any conflicts; it will add to the **Secondary** one and over-write any duplicate records.
 
 The merge itself can take a few seconds, depending on the size of the archives and the capacity of your device.
