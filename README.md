@@ -11,13 +11,11 @@ It merges:
 - Playlists (and media files)
 
 <details>
-<summary>Preview…</summary>
-<br/>
+<summary>Preview…</summary><br/>
 
 ![preview](docs/res/jwlFusion.gif)
-<br/>
-</details>
-<br/>
+
+</details><br/>
 
 **Latest release**: [jwlFusion_v1.0.1.apk](https://github.com/erykjj/jwlFusion-app/releases/download/v1.0.1/jwlFusion_v1.0.1.apk)
 
