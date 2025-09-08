@@ -13,6 +13,7 @@ It merges:
 <details>
 <summary>Preview…</summary>
 <br/>
+
 ![preview](docs/res/jwlFusion.gif)
 <br/>
 </details>
