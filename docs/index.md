@@ -24,6 +24,8 @@ The merge itself can take a few seconds, depending on the size of the archives a
 The merged backup will need to be "saved" (via *Share to…*) with a *jwlFusion_* prefix. You can send it to your cloud storage app (like *Google Drive*) to synchronize to your other device(s), where you can import it into *JW Library* ("Restore Backup").
 
 ____
+[![Static Badge](https://img.shields.io/badge/GitHub-jwlFusion--app-white?logo=GitHub&color=black)](https://github.com/erykjj/jwlFusion-app)
+
 By using this software you agree to abide by the terms of its [License](LICENSE.txt).
 
 Feel free to get in touch and post any [issues and/or suggestions](https://github.com/erykjj/jwlFusion-app/issues).
