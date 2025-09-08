@@ -11,6 +11,11 @@
 ### Removed
 
 ____
+## [v1.0.2] - 2025-09-08
+### Changed
+
+- Updated jwlCore to v0.21.0
+
 ## [v1.0.1] - 2025-09-06
 ### Changed
 
@@ -124,6 +129,7 @@ ____
 - Initial BETA release for testing
 
 ____
+[v1.0.2]:https://github.com/erykjj/jwlFusion-app/releases/tag/v1.0.2
 [v1.0.1]:https://github.com/erykjj/jwlFusion-app/releases/tag/v1.0.1
 [v1.0.0]:https://github.com/erykjj/jwlFusion-app/releases/tag/v1.0.0
 [v0.20.0]:https://github.com/erykjj/jwlFusion-app/releases/tag/v0.20.0
