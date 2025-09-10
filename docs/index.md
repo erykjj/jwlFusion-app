@@ -3,12 +3,12 @@
 This is an **Android app**[^1] to merge backups created by *JW Library*[^2]. It works **off-line**: your data is not sent to anyone's website or a chatbot.
 
 It merges:
-- Annotations (comment fields)
-- Bookmarks (up to limit of 10 for each publication)
-- Highlights
-- Notes (and tags)
-- Favorites
-- Playlists (and media files)
+- **Annotations** (comment fields)
+- **Bookmarks** (up to limit of 10 for each publication)
+- **Highlights**
+- **Notes** (and tags)
+- **Favorites**
+- **Playlists** (and media files)
 
 <details>
 <summary>Preview…</summary><br/>
