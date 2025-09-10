@@ -16,7 +16,7 @@ You are expressly PROHIBITED from:
 The licensor retains all ownership rights to the original software. Any modifications you make are considered derivative works and remain subject to the terms of this license.
 
 ## No Warranty
-THE SOFTWARE IS PROVIDED "AS IS," WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. IN NO EVENT SHALL THE LICENSOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM THE USE OF THE SOFTWARE.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. IN NO EVENT SHALL THE LICENSOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM THE USE OF THE SOFTWARE.
 
 ## Enforcement
 This license relies on the CODER'S CODE OF HONOUR for enforcement. By using this software, you agree to respect the spirit of this license and refrain from actions that violate its terms. The CODER'S CODE OF HONOUR embodies the principles of fairness, respect, and integrity that software developers adhere to in their work. It implies a mutual respect for the effort, creativity, and wishes of others regarding their intellectual property. While legal enforcement is possible, the licensor trusts users to honor these principles and act in good faith, recognizing the value of shared knowledge and the importance of respecting the boundaries set by creators.
