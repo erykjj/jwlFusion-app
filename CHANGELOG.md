@@ -6,6 +6,8 @@
 
 ### Changed
 
+- Built with latest Android libs
+
 ### Fixed
 
 ### Removed
