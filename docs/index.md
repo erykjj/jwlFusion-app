@@ -4,10 +4,10 @@ This is an **Android app**[^1] to merge backups created by *JW Library*[^2]. It 
 
 It merges:
 - Annotations (comment fields)
-- Bookmarks
+- Bookmarks (up to limit of 10 for each publication)
 - Highlights
 - Notes (and tags)
-- Favorites (up to limit of 10)
+- Favorites
 - Playlists (and media files)
 
 <details>
