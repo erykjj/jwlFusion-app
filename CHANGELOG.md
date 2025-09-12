@@ -7,6 +7,7 @@
 ### Changed
 
 - Built with latest Android libs
+- Updated jwlCore libs to v0.22.0
 
 ### Fixed
 
