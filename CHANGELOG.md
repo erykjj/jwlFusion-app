@@ -6,14 +6,17 @@
 
 ### Changed
 
-- Built with latest Android libs
-- Updated jwlCore libs to v0.22.0
-
 ### Fixed
 
 ### Removed
 
 ____
+## [v1.2.0] - 2025-09-13
+### Changed
+
+- Built with latest Android libs
+- Updated jwlCore libs to v0.22.0
+
 ## [v1.0.2] - 2025-09-08
 ### Changed
 
@@ -132,6 +135,7 @@ ____
 - Initial BETA release for testing
 
 ____
+[v1.2.0]:https://github.com/erykjj/jwlFusion-app/releases/tag/v1.2.0
 [v1.0.2]:https://github.com/erykjj/jwlFusion-app/releases/tag/v1.0.2
 [v1.0.1]:https://github.com/erykjj/jwlFusion-app/releases/tag/v1.0.1
 [v1.0.0]:https://github.com/erykjj/jwlFusion-app/releases/tag/v1.0.0
