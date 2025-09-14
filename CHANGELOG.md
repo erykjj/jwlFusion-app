@@ -6,14 +6,17 @@
 
 ### Changed
 
-- Updated jwlCore libs to v0.23.0
-  - Primary always over-writes existing Notes in secondary, even if less recent
-
 ### Fixed
 
 ### Removed
 
 ____
+## [v1.2.1] - 2025-09-14
+### Changed
+
+- Updated jwlCore libs to v0.23.0
+  - Primary always over-writes existing Notes in secondary, even if less recent
+
 ## [v1.2.0] - 2025-09-13
 ### Changed
 
@@ -138,6 +141,7 @@ ____
 - Initial BETA release for testing
 
 ____
+[v1.2.1]:https://github.com/erykjj/jwlFusion-app/releases/tag/v1.2.1
 [v1.2.0]:https://github.com/erykjj/jwlFusion-app/releases/tag/v1.2.0
 [v1.0.2]:https://github.com/erykjj/jwlFusion-app/releases/tag/v1.0.2
 [v1.0.1]:https://github.com/erykjj/jwlFusion-app/releases/tag/v1.0.1
