@@ -6,6 +6,9 @@
 
 ### Changed
 
+- Updated jwlCore libs to v0.23.0
+  - Primary always over-writes existing Notes in secondary, even if less recent
+
 ### Fixed
 
 ### Removed
