@@ -17,7 +17,7 @@ It merges:
 
 </details><br/>
 
-**Latest release**: [jwlFusion_v1.2.0.apk](https://github.com/erykjj/jwlFusion-app/releases/download/v1.2.0/jwlFusion_v1.2.0.apk)
+**Latest release**: [jwlFusion_v1.2.1.apk](https://github.com/erykjj/jwlFusion-app/releases/download/v1.2.1/jwlFusion_v1.2.1.apk)
 
 Pick the two backup archives you wish to merge. The **Primary** one will take precedence in case of any conflicts; it will add to the **Secondary** one and over-write any duplicate records.
 
