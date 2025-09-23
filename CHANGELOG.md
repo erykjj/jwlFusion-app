@@ -6,14 +6,17 @@
 
 ### Changed
 
-- Updated jwlCore libs to v0.25.0
-  - Always merge InputField, even when empty (clearing target)
-
 ### Fixed
 
 ### Removed
 
 ____
+## [v1.4.0] - 2025-09-23
+### Changed
+
+- Updated jwlCore libs to v0.25.0
+  - Always merge InputField, even when empty (clearing target)
+
 ## [v1.3.0] - 2025-09-22
 ### Changed
 
@@ -152,6 +155,7 @@ ____
 - Initial BETA release for testing
 
 ____
+[v1.4.0]:https://github.com/erykjj/jwlFusion-app/releases/tag/v1.4.0
 [v1.3.0]:https://github.com/erykjj/jwlFusion-app/releases/tag/v1.3.0
 [v1.2.1]:https://github.com/erykjj/jwlFusion-app/releases/tag/v1.2.1
 [v1.2.0]:https://github.com/erykjj/jwlFusion-app/releases/tag/v1.2.0
