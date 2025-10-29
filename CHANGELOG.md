@@ -6,6 +6,8 @@
 
 ### Changed
 
+- UI tweaks
+
 ### Fixed
 
 ### Removed
