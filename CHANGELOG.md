@@ -6,6 +6,7 @@
 
 ### Changed
 
+- Use latest libs
 - UI tweaks
 
 ### Fixed
