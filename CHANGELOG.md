@@ -6,14 +6,18 @@
 
 ### Changed
 
-- Updated jwlCore libs to v0.27.0
-  - Fix for exceptions on empty Bookmark title
-
 ### Fixed
 
 ### Removed
 
 ____
+## [v1.7.0] - 2025-11-04
+### Changed
+
+- Updated jwlCore libs to v0.27.0
+  - Fix for exceptions on empty Bookmark title
+- UI fixes/improvements
+
 ## [v1.6.0] - 2025-10-31
 ### Changed
 
@@ -172,6 +176,7 @@ ____
 - Initial BETA release for testing
 
 ____
+[v1.7.0]:https://github.com/erykjj/jwlFusion-app/releases/tag/v1.7.0
 [v1.6.0]:https://github.com/erykjj/jwlFusion-app/releases/tag/v1.6.0
 [v1.5.0]:https://github.com/erykjj/jwlFusion-app/releases/tag/v1.5.0
 [v1.4.0]:https://github.com/erykjj/jwlFusion-app/releases/tag/v1.4.0
