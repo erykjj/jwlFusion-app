@@ -6,6 +6,9 @@
 
 ### Changed
 
+- Updated jwlCore libs to v0.27.0
+  - Fix for exceptions on empty Bookmark title
+
 ### Fixed
 
 ### Removed
