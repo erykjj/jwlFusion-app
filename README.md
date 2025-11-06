@@ -33,7 +33,7 @@ By using this software you agree to abide by the terms of its [License](https://
 
 Feel free to get in touch and post any [issues and/or suggestions](https://github.com/erykjj/jwlFusion-app/issues).
 
-My other *JW Library* projects: [**JWLManager**](https://github.com/erykjj/jwlmanager) & [**jwlFusion** (desktop)](https://github.com/erykjj/jwlFusion)
+My other *JW Library* projects: [**JWLManager**](https://github.com/erykjj/jwlmanager), [**jwlFusion** (desktop)](https://github.com/erykjj/jwlFusion) & **jwlFission**](https://github.com/erykjj/jwlFission-app)
 
 ____
 #### Footnotes:
