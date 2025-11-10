@@ -37,6 +37,6 @@ My other *JW Library* projects: [**JWLManager**](https://github.com/erykjj/jwlma
 
 ____
 #### Footnotes:
-[^1]: Android 10+, arm64-v8a & x86_64; for armeabi-v7a devices, try [v0.11.0](https://github.com/erykjj/jwlFusion-app/releases/download/v0.11.0/jwlFusion_v0.11.0.apk) 
+[^1]: Android 10+, arm64-v8a & x86_64
 
 [^2]: [JW Library](https://www.jw.org/en/online-help/jw-library/) is a registered trademark of *Watch Tower Bible and Tract Society of Pennsylvania*
