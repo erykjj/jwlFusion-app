@@ -11,6 +11,11 @@
 ### Removed
 
 ____
+## [v2.0.0] - 2025-11-10
+### Changed
+
+- Adjusted landscape layout
+
 ## [v1.8.0] - 2025-11-09
 ### Changed
 
@@ -182,6 +187,7 @@ ____
 - Initial BETA release for testing
 
 ____
+[v2.0.0]:https://github.com/erykjj/jwlFusion-app/releases/tag/v2.0.0
 [v1.8.0]:https://github.com/erykjj/jwlFusion-app/releases/tag/v1.8.0
 [v1.7.0]:https://github.com/erykjj/jwlFusion-app/releases/tag/v1.7.0
 [v1.6.0]:https://github.com/erykjj/jwlFusion-app/releases/tag/v1.6.0
