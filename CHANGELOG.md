@@ -11,6 +11,12 @@
 ### Removed
 
 ____
+## [v1.8.0] - 2025-11-09
+### Changed
+
+- Updated libs
+- UI improvements
+
 ## [v1.7.0] - 2025-11-04
 ### Changed
 
@@ -176,6 +182,7 @@ ____
 - Initial BETA release for testing
 
 ____
+[v1.8.0]:https://github.com/erykjj/jwlFusion-app/releases/tag/v1.8.0
 [v1.7.0]:https://github.com/erykjj/jwlFusion-app/releases/tag/v1.7.0
 [v1.6.0]:https://github.com/erykjj/jwlFusion-app/releases/tag/v1.6.0
 [v1.5.0]:https://github.com/erykjj/jwlFusion-app/releases/tag/v1.5.0
