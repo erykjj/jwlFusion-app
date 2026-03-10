@@ -11,6 +11,16 @@
 ### Removed
 
 ____
+## [v2.2.0] - 2026-03-10
+### Changed
+
+- Updated jwlCore libs to v0.28.1
+  - Fix trimming orphaned records
+
+### Fixed
+
+- Fixed splashscreen color
+
 ## [v2.1.0] - 2026-03-03
 ### Changed
 
@@ -193,6 +203,7 @@ ____
 - Initial BETA release for testing
 
 ____
+[v2.2.0]:https://github.com/erykjj/jwlFusion-app/releases/tag/v2.2.0
 [v2.1.0]:https://github.com/erykjj/jwlFusion-app/releases/tag/v2.1.0
 [v2.0.0]:https://github.com/erykjj/jwlFusion-app/releases/tag/v2.0.0
 [v1.8.0]:https://github.com/erykjj/jwlFusion-app/releases/tag/v1.8.0
