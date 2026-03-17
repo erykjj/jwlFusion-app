@@ -28,8 +28,6 @@ The merged backup will need to be "saved" (via *Share to…*) with a *jwlFusion_
 ____
 [![Static Badge](https://img.shields.io/badge/releases-orange?style=plastic&logo=rss&logoColor=orange&color=black)](https://github.com/erykjj/jwlFusion-app/releases.atom) [![Static Badge](https://img.shields.io/badge/GitHub.io-jwlFusion%20App-white?style=plastic&logo=GitHub&color=black)](https://erykjj.github.io/jwlFusion-app) [<img src="docs/res/PlayStore.svg" width=60>](https://play.google.com/store/apps/details?id=org.infiniti.jwlfusion.android)
 
-By using this software you agree to abide by the terms of its [License](https://github.com/erykjj/jwlFusion-app#License-1-ov-file).
-
 Feel free to get in touch and post any [issues and/or suggestions](https://github.com/erykjj/jwlFusion-app/issues).
 
 My other *JW Library* projects: [**JWLManager**](https://github.com/erykjj/jwlmanager), [**jwlFusion** (desktop)](https://github.com/erykjj/jwlFusion) & [**jwlFission**](https://github.com/erykjj/jwlFission-app)
