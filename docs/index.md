@@ -21,7 +21,7 @@ Pick the two backup archives you wish to merge. The **Primary** one will take pr
 
 The merge itself can take a few seconds, depending on the size of the archives and the capacity of your device.
 
-The merged backup will need to be "saved" (via *Share to…*) with a *jwlFusion_* prefix. You can send it to your cloud storage app (like *Google Drive*) to synchronize to your other device(s), where you can import it into *JW Library* ("Restore Backup").
+The merged backup will need to be "saved" (via *Share to…*) with a *jwlFusion_* prefix. You can send it to your cloud storage app (like *Google Drive*) to synchronize to your other device(s), where you can import it into *JW Library* ("Restore Backup"), version 15.8 or higher.
 
 ____
 [![Static Badge](https://img.shields.io/badge/GitHub-jwlFusion--app-white?style=plastic&logo=GitHub&color=black)](https://github.com/erykjj/jwlFusion-app) [<img src="res/PlayStore.svg" width=60>](https://play.google.com/store/apps/details?id=org.infiniti.jwlfusion.android)
