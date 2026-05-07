@@ -11,6 +11,14 @@
 ### Removed
 
 ____
+## [v2.3.0] - 2026-05-07
+### Changed
+
+- Updated libs
+- Updated jwlCore libs to v0.31.1
+  - Upgrade to schema v16
+  - **NOTE*: the merged archives cannot be restored on JW Library version < 15.8
+
 ## [v2.2.0] - 2026-03-10
 ### Changed
 
