@@ -17,13 +17,13 @@ It merges:
 
 </details><br/>
 
-**Latest release**: [jwlFusion_v2.2.0.apk](https://github.com/erykjj/jwlFusion-app/releases/download/v2.2.0/jwlFusion_v2.2.0.apk)
+**Latest release**: [jwlFusion_v2.3.0.apk](https://github.com/erykjj/jwlFusion-app/releases/download/v2.3.0/jwlFusion_v2.3.0.apk)
 
 Pick the two backup archives you wish to merge. The **Primary** one will take precedence in case of any conflicts; it will add to the **Secondary** one and over-write any duplicate records.
 
 The merge itself can take a few seconds, depending on the size of the archives and the capacity of your device.
 
-The merged backup will need to be "saved" (via *Share to…*) with a *jwlFusion_* prefix. You can send it to your cloud storage app (like *Google Drive*) to synchronize to your other device(s), where you can import it into *JW Library* ("Restore Backup").
+The merged backup will need to be "saved" (via *Share to…*) with a *jwlFusion_* prefix. You can send it to your cloud storage app (like *Google Drive*) to synchronize to your other device(s), where you can import it into *JW Library* ("Restore Backup"), version 15.8 or higher.
 
 ____
 [![Static Badge](https://img.shields.io/badge/releases-orange?style=plastic&logo=rss&logoColor=orange&color=black)](https://github.com/erykjj/jwlFusion-app/releases.atom) [![Static Badge](https://img.shields.io/badge/GitHub.io-jwlFusion%20App-white?style=plastic&logo=GitHub&color=black)](https://erykjj.github.io/jwlFusion-app) [<img src="docs/res/PlayStore.svg" width=60>](https://play.google.com/store/apps/details?id=org.infiniti.jwlfusion.android)
