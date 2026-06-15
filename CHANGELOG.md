@@ -4,6 +4,9 @@
 
 ### Added
 
+- Prevent crashes on unsupported platforms
+- Prevent crashes with file access permission time-out
+
 ### Changed
 
 ### Fixed
