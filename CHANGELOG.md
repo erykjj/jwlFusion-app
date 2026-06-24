@@ -11,6 +11,12 @@
 ### Removed
 
 ____
+## [v2.5.0] - 2026-06-24
+### Changed
+
+- Updated libs
+- Prevent potential crashes with file validation time-out
+
 ## [v2.4.0] - 2026-06-16
 ### Added
 
@@ -217,6 +223,7 @@ ____
 - Initial BETA release for testing
 
 ____
+[v2.5.0]:https://github.com/erykjj/jwlFusion-app/releases/tag/v2.5.0
 [v2.4.0]:https://github.com/erykjj/jwlFusion-app/releases/tag/v2.4.0
 [v2.3.0]:https://github.com/erykjj/jwlFusion-app/releases/tag/v2.3.0
 [v2.2.0]:https://github.com/erykjj/jwlFusion-app/releases/tag/v2.2.0
