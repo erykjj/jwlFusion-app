@@ -11,6 +11,11 @@
 ### Removed
 
 ____
+## [v2.6.0] - 2026-06-26
+### Added
+
+- Added toast alert on failed merge
+
 ## [v2.5.0] - 2026-06-24
 ### Changed
 
@@ -223,6 +228,7 @@ ____
 - Initial BETA release for testing
 
 ____
+[v2.6.0]:https://github.com/erykjj/jwlFusion-app/releases/tag/v2.6.0
 [v2.5.0]:https://github.com/erykjj/jwlFusion-app/releases/tag/v2.5.0
 [v2.4.0]:https://github.com/erykjj/jwlFusion-app/releases/tag/v2.4.0
 [v2.3.0]:https://github.com/erykjj/jwlFusion-app/releases/tag/v2.3.0
