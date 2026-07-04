@@ -16,7 +16,7 @@ ____
 
 - Updated libs
 - Updated jwlCore libs to v0.32.1
-  - Fixes potential tag-reindexing issues
+  - More small fixes
 
 ## [v2.7.0] - 2026-06-26
 ### Changed
