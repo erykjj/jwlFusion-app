@@ -6,14 +6,18 @@
 
 ### Changed
 
-- Updated jwlCore libs to v0.32.1
-  - Fixes potential tag-reindexing issues
-
 ### Fixed
 
 ### Removed
 
 ____
+## [v2.7.1] - 2026-07-04
+### Changed
+
+- Updated libs
+- Updated jwlCore libs to v0.32.1
+  - Fixes potential tag-reindexing issues
+
 ## [v2.7.0] - 2026-06-26
 ### Changed
 
@@ -238,6 +242,7 @@ ____
 - Initial BETA release for testing
 
 ____
+[v2.7.1]:https://github.com/erykjj/jwlFusion-app/releases/tag/v2.7.1
 [v2.7.0]:https://github.com/erykjj/jwlFusion-app/releases/tag/v2.7.0
 [v2.6.0]:https://github.com/erykjj/jwlFusion-app/releases/tag/v2.6.0
 [v2.5.0]:https://github.com/erykjj/jwlFusion-app/releases/tag/v2.5.0
