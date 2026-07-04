@@ -6,6 +6,9 @@
 
 ### Changed
 
+- Updated jwlCore libs to v0.32.1
+  - Fixes potential tag-reindexing issues
+
 ### Fixed
 
 ### Removed
