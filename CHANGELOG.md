@@ -6,13 +6,17 @@
 
 ### Changed
 
-- Fix potential crash on expired file permissions
-
 ### Fixed
 
 ### Removed
 
 ____
+## [v2.7.2] - 2026-08-04
+### Changed
+
+- Fixed potential crash on expired file permissions
+- Fixed potential crash with huge files
+
 ## [v2.7.1] - 2026-07-04
 ### Changed
 
@@ -244,6 +248,7 @@ ____
 - Initial BETA release for testing
 
 ____
+[v2.7.2]:https://github.com/erykjj/jwlFusion-app/releases/tag/v2.7.2
 [v2.7.1]:https://github.com/erykjj/jwlFusion-app/releases/tag/v2.7.1
 [v2.7.0]:https://github.com/erykjj/jwlFusion-app/releases/tag/v2.7.0
 [v2.6.0]:https://github.com/erykjj/jwlFusion-app/releases/tag/v2.6.0
