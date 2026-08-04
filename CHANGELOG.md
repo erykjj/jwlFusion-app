@@ -6,6 +6,8 @@
 
 ### Changed
 
+- Fix potential crash on expired file permissions
+
 ### Fixed
 
 ### Removed
