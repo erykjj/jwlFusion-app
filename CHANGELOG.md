@@ -11,6 +11,13 @@
 ### Removed
 
 ____
+## [v2.8.0] - 2026-08-14
+### Changed
+
+- Updated libs
+- Updated jwlCore libs to v0.33.0
+  - Fixed two table merges
+
 ## [v2.7.2] - 2026-08-04
 ### Changed
 
@@ -248,6 +255,7 @@ ____
 - Initial BETA release for testing
 
 ____
+[v2.8.0]:https://github.com/erykjj/jwlFusion-app/releases/tag/v2.8.0
 [v2.7.2]:https://github.com/erykjj/jwlFusion-app/releases/tag/v2.7.2
 [v2.7.1]:https://github.com/erykjj/jwlFusion-app/releases/tag/v2.7.1
 [v2.7.0]:https://github.com/erykjj/jwlFusion-app/releases/tag/v2.7.0
