@@ -11,6 +11,11 @@
 ### Removed
 
 ____
+## [v2.8.1] - 2026-09-02
+### Changed
+
+- Minor tweaks
+
 ## [v2.8.0] - 2026-08-14
 ### Changed
 
@@ -255,6 +260,7 @@ ____
 - Initial BETA release for testing
 
 ____
+[v2.8.1]:https://github.com/erykjj/jwlFusion-app/releases/tag/v2.8.1
 [v2.8.0]:https://github.com/erykjj/jwlFusion-app/releases/tag/v2.8.0
 [v2.7.2]:https://github.com/erykjj/jwlFusion-app/releases/tag/v2.7.2
 [v2.7.1]:https://github.com/erykjj/jwlFusion-app/releases/tag/v2.7.1
