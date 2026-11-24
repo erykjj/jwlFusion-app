@@ -16,6 +16,7 @@ ____
 
 - Updated jwlCore libs to v1.0.0
   - Added guard for archives with missing media
+- Updated libs
 
 ## [v2.8.1] - 2026-09-02
 ### Changed
