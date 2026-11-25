@@ -11,6 +11,12 @@
 ### Removed
 
 ____
+## [v2.11.0] - 2026-11-25
+### Changed
+
+- Updated jwlCore libs to v1.1.1
+  - Fix potential error on older Android
+
 ## [v2.10.0] - 2026-11-23
 ### Changed
 
@@ -268,6 +274,7 @@ ____
 - Initial BETA release for testing
 
 ____
+[v2.11.0]:https://github.com/erykjj/jwlFusion-app/releases/tag/v2.11.0
 [v2.10.0]:https://github.com/erykjj/jwlFusion-app/releases/tag/v2.10.0
 [v2.8.1]:https://github.com/erykjj/jwlFusion-app/releases/tag/v2.8.1
 [v2.8.0]:https://github.com/erykjj/jwlFusion-app/releases/tag/v2.8.0
